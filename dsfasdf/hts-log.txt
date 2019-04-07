@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sun, 07 Apr 2019 06:48:31 at https://tnb3000.github.io/cion-site/dist/musicians.html https://tnb3000.github.io/cion-site/dist/search-results.html https://tnb3000.github.io/cion-site/dist/crew-profile.html
+(winhttrack https://tnb3000.github.io/cion-site/dist/musicians.html https://tnb3000.github.io/cion-site/dist/search-results.html https://tnb3000.github.io/cion-site/dist/crew-profile.html -O "/Users/emanuel/websites/dsfasdf" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 seconds : 32 links scanned, 31 files written (5192841 bytes overall) [5108560 bytes received at 124599 bytes/sec], 158987 bytes transferred using HTTP compression in 8 files, ratio 31%, 6.4 requests per connection
+(No errors, 0 warnings, 0 messages)
